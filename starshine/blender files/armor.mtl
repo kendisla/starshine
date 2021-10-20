@@ -1,0 +1,67 @@
+# Blender MTL File: 'armor.blend'
+# Material Count: 5
+
+newmtl Paladin_MAT
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Bump -bm 0.350042 /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_normal.png
+map_Kd /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_diffuse.png
+map_Ks /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_specular.png
+
+newmtl Paladin_MAT.001
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Bump -bm 0.350042 /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_normal.png
+map_Kd /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_diffuse.png
+map_Ks /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_specular.png
+
+newmtl Paladin_MAT.003
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Bump -bm 0.350042 /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_normal.png
+map_Kd /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_diffuse.png
+map_Ks /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_specular.png
+
+newmtl Paladin_MAT.004
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Bump -bm 0.350042 /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_normal.png
+map_Kd /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_diffuse.png
+map_Ks /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_specular.png
+
+newmtl Paladin_MAT.005
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Bump -bm 0.350042 /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_normal.png
+map_Kd /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_diffuse.png
+map_Ks /Users/home/app/mixamo-mini/tmp/skins_2d2ec242-f140-4abb-b992-7ed5076c845c.fbm/Paladin_specular.png
